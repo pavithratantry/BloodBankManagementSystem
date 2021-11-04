@@ -1,0 +1,11 @@
+#index
+{
+    background-image: url("images/index.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading
+{
+    color: rgb(77, 5, 5);
+    
+}
